@@ -86,4 +86,5 @@ project/
 - Create a graphical user interface (GUI).
 
 ## Author
+## Angel Bareja ##
 Created as a Python practice project for learning programming fundamentals and interview portfolio showcase.
